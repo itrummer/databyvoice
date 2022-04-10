@@ -13,6 +13,14 @@ Voice query interfaces.
 
 ## Awards
 
+- CIDA Grant for "Co-creating a human-machine interface better adapted for on-farm data recording, curation, management, and use".
+- Mark Bryan wins honorable mention for the 2018 CRA Outstanding Undergraduate Researcher Award.
+- Google Faculty Research Award for project "optimizing voice-based output of relational data".
+
 ## Funding
 
-- 
+We thankfully acknowledge funding by the following organizations:
+- Cornell Institute for Digital Agriculture
+- J. P. Morgan
+- Google
+- Lockheed Martin
