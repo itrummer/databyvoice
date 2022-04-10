@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Voice Query Interfaces
+github:
+  is_project_page: False
