@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+Voice query interfaces.
 
-You can use the [editor on GitHub](https://github.com/itrummer/databyvoice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **VLDB'21** Robust voice querying with MUVE: optimally visualizing results of phonetically similar queries. _Ziyun Wei, Immanuel Trummer, and Connor Anderson._
+- **SIGMOD'21** Demonstrating robust voice querying with MUVE: optimally visualizing results of phonetically similar queries. _Ziyun Wei, Immanuel Trummer, Connor Anderson._
+- **ICDE'21** Optimally summarizing data by small fact sets for concise answers to voice queries. _Immanuel Trummer, Connor Anderson._
+- **VLDB'20** Demonstrating the voice-based exploration of large data sets with CiceroDB-Zero. _Immanuel Trummer._
+- **CIDR'19** Data vocalization with CiceroDB. _Immanuel Trummer._
+- **SIGMOD'19** A holistic approach for query evaluation and result vocalization in voice-based OLAP. _Immanuel Trummer, Yicheng Wang, Saketh Mahankali._
+- **VLDB'18** Vocalizing large time series efficiently. _Immanuel Trummer, Mark Bryan, and Ramya Narasimha._
+- **VLDB'17** Optimizing voice-based output of relational data. _Immanuel Trummer, Jiancheng Zhu, and Mark Bryan._
 
-### Markdown
+## Awards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Funding
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itrummer/databyvoice/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 
