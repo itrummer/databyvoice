@@ -1,7 +1,7 @@
 The communication between user and computer is more and more shifting towards voice interfaces. Voice interfaces are perhaps the most natural form of communication to most users. They can be used in a variety of situations (e.g., while driving), even from a distance. The [Cornell Database Group](https://itrummer.github.io/dbgrouphp/) is working on leveraging voice query interfaces for manipulating and analyzing structured data.
 
 
-<div style="align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/hxH-hLociM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/hxH-hLociM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Publications
 
