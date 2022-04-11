@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Voice Query Interfaces
+description: Enabling voice-based access to structured data
 github:
   is_project_page: False
